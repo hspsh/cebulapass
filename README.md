@@ -26,7 +26,7 @@ Projekt ma na celu stworzenie cebulapass - popisiowej konferencyjnej blachy konf
 # Struktura projektu
 
 folder | opis
--------------
+-------|-----
 fw     | zawiera oprogramowanie mikrokontrolera
 hw     | zawiera projekt płytki pcb
 doc    | wszelka dokumentacja związana z projektem
