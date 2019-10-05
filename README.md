@@ -23,4 +23,13 @@ Projekt ma na celu stworzenie cebulapass - popisiowej konferencyjnej blachy konf
 12. wyjscia wysokopradowe (~20mA, GPIO przez tranzystor, może mosfet)
 13. dioda led (jaki cel? Status? Można zastąpić WS2812?)
 
+# Struktura projektu
+
+folder | opis
+-------------
+fw     | zawiera oprogramowanie mikrokontrolera
+hw     | zawiera projekt płytki pcb
+doc    | wszelka dokumentacja związana z projektem
+app    | zawiera aplikacje na serwer/pc współpracującą z cebulapass
+
 
